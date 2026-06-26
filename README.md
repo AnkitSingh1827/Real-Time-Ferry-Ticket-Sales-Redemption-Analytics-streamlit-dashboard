@@ -4,6 +4,9 @@
 
 This repository contains a multi-page Streamlit dashboard for analyzing Toronto Island ferry ticket sales and redemption activity. It is designed for operations teams, planners, and stakeholders who want to understand demand patterns, passenger movement, seasonality, data quality, and short-term forecasting.
 
+📍 *Live App*: 👉 [Check it out here](https://nassaucandyanalyticsapp-dashboard.streamlit.app/)
+
+
 ## ✨ What the Dashboard Includes
 
 - Overview metrics for total sales, redemptions, net movement, and average demand
