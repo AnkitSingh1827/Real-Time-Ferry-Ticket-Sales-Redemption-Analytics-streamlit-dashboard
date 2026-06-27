@@ -101,3 +101,8 @@ Forecasting support is also included and can use Prophet when it is available in
 - The app uses a custom theme defined in utils/theme.py.
 - If the data file changes, refresh the app to reflect the latest analysis.
 - The project includes automated tests under tests/ for forecasting and visualization behavior.
+
+- - ## 👩‍💻 Author
+
+*Ankit Singh*  
+[GitHub](https://github.com/AnkitSingh1827) | [LinkedIn](https://www.linkedin.com/in/ankit-singh257)
